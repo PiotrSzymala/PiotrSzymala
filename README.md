@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PiotrSzymala, a second-year Computer Science student at the University of Economics in Katowice. 
-- ✨ Currently working as a junior .NET developer at Sellpander.
+- ✨ Currently working as a .NET developer and team leader at Sellpander.
 - 📫 You can reach me via piotr.szymala@edu.uekat.pl
 - 🤺 My codewars profile: https://www.codewars.com/users/Szymalsky
 - 👀 I’m interested in sports such as martial arts and jogging.  
